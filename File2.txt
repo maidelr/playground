@@ -1,4 +1,7 @@
-Das ist die 2 Datei
+﻿Das ist die 2 Datei
 Das ist die zweite Datei
 
 geändert in mysecondbranch
+
+
+hier noch ein Kommentar für mynewbranch
